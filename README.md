@@ -1,2 +1,2 @@
-# desafio-dio-github
- Primeiro Repositório no GitHub Para Compartilhar Meu Progresso
+# Desafio DIO
+ Primeiro repositório no GitHub para compartilhar meu progresso.
